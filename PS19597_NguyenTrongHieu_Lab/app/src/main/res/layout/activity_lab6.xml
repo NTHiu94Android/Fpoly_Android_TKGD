@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bgr3"
+    android:orientation="vertical"
+    android:gravity="center|top"
+    tools:context=".Lab5.Lab5">
+    <Button
+        android:id="@+id/btnLab6Bai1"
+        android:text="Bài 1"
+        android:layout_marginTop="40dp"
+        android:backgroundTint="#8E24AA"
+        android:layout_width="120dp"
+        android:layout_height="wrap_content"/>
+    <Button
+        android:id="@+id/btnLab6Bai2"
+        android:text="Bài 2"
+        android:backgroundTint="#7CB342"
+        android:layout_width="120dp"
+        android:layout_height="wrap_content"/>
+    <Button
+        android:id="@+id/btnLab6Bai3"
+        android:text="Bài 3"
+        android:backgroundTint="#1E88E5"
+        android:layout_width="120dp"
+        android:layout_height="wrap_content"/>
+
+
+</LinearLayout>

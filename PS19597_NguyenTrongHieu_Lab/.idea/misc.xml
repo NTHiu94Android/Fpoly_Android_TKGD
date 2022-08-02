@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/drawable/ic_caydu.xml" value="0.2128205128205128" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/drawable/ic_delete.xml" value="0.21614583333333334" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/drawable/ic_edit.xml" value="0.21614583333333334" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/drawable/ic_menu_asm.xml" value="0.21614583333333334" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/drawable/toggele.xml" value="0.2064814814814815" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/font/rlazed_font.xml" value="0.2101851851851852" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/activity_asm.xml" value="0.2" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/activity_asm_home.xml" value="0.1" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/activity_asm_khoan_chi.xml" value="0.1859375" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/activity_asm_khoan_thu.xml" value="0.2" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/activity_asm_loai_chi.xml" value="0.2" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/activity_asm_loai_thu.xml" value="0.2" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/activity_asm_login.xml" value="0.2" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/activity_asm_sign_up.xml" value="0.2" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/activity_asm_trang_chu.xml" value="0.2" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/activity_lab1.xml" value="0.2" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/activity_lab1_bai1.xml" value="0.15534420289855072" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/activity_lab1_bai2.xml" value="0.15534420289855072" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/activity_lab1_bai3.xml" value="0.2" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/activity_lab1_bai4.xml" value="0.2" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/activity_lab2.xml" value="0.2" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/activity_lab2_bai1.xml" value="0.2" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/activity_lab2_bai2.xml" value="0.2" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/activity_lab2_bai3.xml" value="0.2" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/activity_lab2_bai4.xml" value="0.1859375" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/activity_lab3.xml" value="0.2" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/activity_lab3_bai1.xml" value="0.2" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/activity_lab3_bai2.xml" value="0.2" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/activity_lab3_bai3.xml" value="0.2" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/activity_lab3_bai4.xml" value="0.2" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/activity_lab4.xml" value="0.2" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/activity_lab4_bai1.xml" value="0.2" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/activity_lab5.xml" value="0.2" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/activity_lab5_bai1.xml" value="0.2" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/activity_lab5_bai2.xml" value="0.2" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/activity_lab5_bai3.xml" value="0.2" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/activity_lab5_bai4.xml" value="0.2" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/activity_lab6.xml" value="0.2" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/activity_lab6_bai1.xml" value="0.1859375" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/activity_lab6_bai2.xml" value="0.18704710144927536" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/activity_lab6_bai3.xml" value="0.2" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/activity_lab7.xml" value="0.1911231884057971" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/activity_lab7_bai1.xml" value="0.1743659420289855" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/activity_lab7_bai2.xml" value="0.1743659420289855" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/activity_lab7_bai3.xml" value="0.1743659420289855" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/activity_lab7_bai4.xml" value="0.1743659420289855" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/activity_lab7_bai5.xml" value="0.1743659420289855" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/activity_lab8.xml" value="0.1911231884057971" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/activity_lab8_bai1.xml" value="0.1480978260869565" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/activity_lab8_bai2.xml" value="0.1480978260869565" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/activity_main.xml" value="0.19701086956521738" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/content_lab8.xml" value="0.1911231884057971" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/dialog_addclass.xml" value="0.2" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/dialog_asm_add_khoanchi.xml" value="0.2" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/dialog_asm_add_khoanthu.xml" value="0.2" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/dialog_asm_add_loaichi.xml" value="0.18" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/dialog_asm_add_loaithu.xml" value="0.2" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/dialog_asm_update_khoanchi.xml" value="0.2" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/dialog_asm_update_khoanthu.xml" value="0.2" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/dialog_asm_update_loaichi.xml" value="0.22" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/dialog_asm_update_loaithu.xml" value="0.2" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/dialog_lab5_bai4.xml" value="0.2" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/fragment_asm_chi.xml" value="0.2" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/fragment_asm_gioi_thieu.xml" value="0.18" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/fragment_asm_khoan_chi.xml" value="0.2" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/fragment_asm_khoan_thu.xml" value="0.2" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/fragment_asm_loai_chi.xml" value="0.1859375" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/fragment_asm_loai_thu.xml" value="0.2" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/fragment_asm_thong_ke.xml" value="0.1859375" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/fragment_asm_thu.xml" value="0.2" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/fragment_gallery.xml" value="0.10869565217391304" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/fragment_home.xml" value="0.1911231884057971" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/fragment_lab6_bai1_left.xml" value="0.22" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/fragment_lab6_bai1_right1.xml" value="0.2" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/fragment_lab6_bai1_right2.xml" value="0.1859375" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/fragment_lab6_bai2_left.xml" value="0.18704710144927536" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/fragment_lab6_bai2_right.xml" value="0.1859375" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/fragment_lab6_bai3_tab1.xml" value="0.2" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/fragment_lab6_bai3_tab2.xml" value="0.2" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/fragment_lab6_bai3_tab3.xml" value="0.1859375" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/fragment_lab8_bai1.xml" value="0.1480978260869565" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/fragment_lab8_bai12.xml" value="0.1480978260869565" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/fragment_lab8_bai13.xml" value="0.1480978260869565" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/fragment_loai_chi.xml" value="0.2" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/fragment_slideshow.xml" value="0.1911231884057971" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/header_view_layout.xml" value="0.2" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/item_asm_khoanchi.xml" value="0.2" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/item_asm_khoanthu.xml" value="0.2" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/item_asm_loaichi.xml" value="0.2" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/item_asm_loaichi2.xml" value="0.2" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/item_asm_loaithu.xml" value="0.2" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/item_asm_loaithu2.xml" value="0.2" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/item_asm_spinner.xml" value="0.2" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/item_asm_spinner_chi.xml" value="0.2" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/item_lab3_bai1.xml" value="0.2" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/item_lab3_bai2.xml" value="0.2" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/item_lab3_bai3.xml" value="0.2" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/item_lab3_bai4.xml" value="0.2" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/layout/item_lab8_rcv.xml" value="0.13632246376811594" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/menu/asm_menu.xml" value="0.2" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/menu/lab4_bai1_menu.xml" value="0.2" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/menu/lab4_bottom_nav_menu.xml" value="0.2" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/menu/lab4_context_menu.xml" value="0.2" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/menu/lab4_option_menu.xml" value="0.2" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/menu/lab7_bai4_bottom_nav.xml" value="0.2" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab/app/src/main/res/menu/lab8bai1_menu.xml" value="0.2" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab1/app/src/main/res/drawable-v24/btn.xml" value="0.2128205128205128" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab1/app/src/main/res/drawable-v24/ic_arrow_back_black_24dp.xml" value="0.2128205128205128" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab1/app/src/main/res/drawable-v24/ic_face_black_24dp.xml" value="0.2128205128205128" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab1/app/src/main/res/drawable-v24/joinbtn.xml" value="0.2128205128205128" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab1/app/src/main/res/layout/activity_bai1.xml" value="0.2" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab1/app/src/main/res/layout/activity_bai1_lab1.xml" value="0.2" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab1/app/src/main/res/layout/activity_bai2.xml" value="0.2" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab1/app/src/main/res/layout/activity_lab1.xml" value="0.2" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab1/app/src/main/res/layout/activity_lab1_bai1.xml" value="0.2" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab1/app/src/main/res/layout/activity_lab1_bai2.xml" value="0.2" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab1/app/src/main/res/layout/activity_lab1_bai3.xml" value="0.2" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab1/app/src/main/res/layout/activity_lab1_bai4.xml" value="0.2" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab1/app/src/main/res/layout/activity_lab2.xml" value="0.2" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab1/app/src/main/res/layout/activity_lab2_bai1.xml" value="0.2" />
+        <entry key="..\:/FPOLY/ANDROID TK GIAO DIEN/BAITAP/PS19597_NguyenTrongHieu_Lab1/app/src/main/res/layout/activity_main.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

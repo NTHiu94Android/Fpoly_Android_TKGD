@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Android_UI</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="loai_chi_fragment">Loại chi fragment</string>
+    <string name="loai_thu_fragment">Loại thu fragment</string>
+    <string name="khoan_chi_fragment">Khoản chi fragment</string>
+    <string name="khoan_thu_fragment">Khoản thu fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="gioi_thieu_fragment">***Cứ đến cuối tuần/ cuối tháng/ cuối năm, nhìn ví tiền/ tài
+        khoản ít đi hay nhiều lên, bạn có dám chắc bạn nhớ hết cụ thể những khoản thu/ khoản chi nào
+        không? Thực ra, bạn không cần thiết phải nhớ hết những khoản thu/ khoản chi đó. Hãy ghi chép
+        ra giấy, ghi chép vào file excel hay tốt hơn hết là ghi chép vào một phần mềm Quản lý Thu
+        Chi nào đó...</string>
+    <string name="thong_ke_fragment">Thống kê fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="lab6_bai3_tab1_fragment">Tab1</string>
+    <string name="lab6_bai3_tab2_fragment">Tab2</string>
+    <string name="lab6_bai3_tab3_fragment">Tab3</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_lab8">Lab8Activity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias atque eos, expedita fuga fugiat id illum maiores optio porro quis, quod recusandae similique sunt, tempora voluptatum? Magni maiores quisquam reiciendis.
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem delectus deserunt dolor doloremque doloribus esse incidunt laboriosam modi nam nesciunt numquam perferendis possimus, quaerat quas quidem saepe temporibus tenetur ut?
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis porro suscipit velit voluptas! Ea fuga praesentium quas quasi ratione recusandae reprehenderit totam vel vero. Enim est ipsa nobis nulla! Ipsam!
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus aliquam asperiores assumenda blanditiis consectetur dicta error esse est exercitationem, iure necessitatibus nihil perspiciatis sed! Accusantium debitis delectus dicta nisi nostrum.
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad aliquam aliquid, cum dicta ducimus fuga id inventore tenetur? Adipisci culpa dolorum impedit in minima obcaecati omnis pariatur voluptates voluptatibus! Facere.</string>
+</resources>

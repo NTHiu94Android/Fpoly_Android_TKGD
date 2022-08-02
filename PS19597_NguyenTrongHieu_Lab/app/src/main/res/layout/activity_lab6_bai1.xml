@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Lab6.Lab6Bai1">
+
+    <androidx.fragment.app.FragmentContainerView
+        android:id="@+id/fragmentContainerView"
+        android:name="com.example.tkgd_android.Lab6.FragmentLab6.Lab6Bai1LeftFragment"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:background="#FAF4C4"
+        android:layout_weight="1" />
+    <FrameLayout
+        android:id="@+id/framelayoutLab6Bai1"
+        android:layout_weight="1"
+        android:background="#E7FBAA"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"/>
+</LinearLayout>

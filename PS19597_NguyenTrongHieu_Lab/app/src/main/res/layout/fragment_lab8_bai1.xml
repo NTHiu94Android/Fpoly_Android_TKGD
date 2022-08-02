@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="5dp"
+    android:background="@drawable/bgr3"
+    tools:context=".Lab8.Fragment.Lab8Bai1Fragment1">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:id="@+id/tvLab8Bai2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textSize="24sp"
+        android:textColor="#DD2C00"
+        android:fontFamily="@font/hobostd"
+        android:text="RecycleView" />
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rcvLab8Bai2"
+        android:layout_marginTop="10dp"
+        android:layout_below="@id/tvLab8Bai2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+</RelativeLayout>

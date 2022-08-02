@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/titleKhoanThuAsm"
+        android:layout_width="match_parent"
+        android:layout_height="64dp"
+        android:background="#AEEA00"
+        android:gravity="center"
+        android:text="CẬP NHẬT KHOẢN THU"
+        android:textStyle="bold"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/tvTieuDeKhoanThuCuAsm"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="fffffffffff"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:textSize="18sp"
+        android:padding="10dp"
+        android:layout_marginLeft="4dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginRight="4dp"
+        android:layout_marginBottom="4dp"/>
+
+    <EditText
+        android:id="@+id/edtTieuDeKhoanThuMoiAsm"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="4dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginRight="4dp"
+        android:layout_marginBottom="4dp"
+        android:hint="Nhập tiêu đề khoản thu mới" />
+    <EditText
+        android:id="@+id/edtNgayKhoanThuMoiAsm"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="4dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginRight="4dp"
+        android:layout_marginBottom="4dp"
+        android:hint="Nhập ngày khoản thu mới" />
+    <EditText
+        android:id="@+id/edtTienKhoanThuMoiAsm"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:layout_marginLeft="4dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginRight="4dp"
+        android:layout_marginBottom="4dp"
+        android:hint="Nhập tiền khoản thu mới" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:id="@+id/btnClearUpdateKhoanThuAsm"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            app:backgroundTint="@null"
+            android:layout_margin="10dp"
+            android:layout_weight="1"
+            android:background="#AEAB9F"
+            android:text="Xóa trắng"/>
+
+        <Button
+            android:id="@+id/btnUpdateKhoanThuAsm"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            app:backgroundTint="@null"
+            android:layout_margin="10dp"
+            android:layout_weight="1"
+            android:background="#FFD600"
+            android:text="Cập nhật"/>
+    </LinearLayout>
+</LinearLayout>

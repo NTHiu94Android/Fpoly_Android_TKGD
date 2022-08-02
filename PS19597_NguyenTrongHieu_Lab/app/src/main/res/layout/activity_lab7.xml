@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center|top"
+    tools:context=".Lab7.Lab7">
+    <LinearLayout
+        android:gravity="center"
+        android:layout_marginTop="40dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <Button
+            android:id="@+id/btnLab7Bai1"
+            android:text="Bài 1"
+            android:layout_marginEnd="10dp"
+            android:backgroundTint="#8E24AA"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+        <Button
+            android:id="@+id/btnLab7Bai2"
+            android:text="Bài 2"
+            android:layout_marginStart="10dp"
+            android:backgroundTint="#7CB342"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+    </LinearLayout>
+   <LinearLayout
+       android:gravity="center"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content">
+       <Button
+           android:id="@+id/btnLab7Bai3"
+           android:text="Bài 3"
+           android:layout_marginEnd="5dp"
+           android:backgroundTint="#1E88E5"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"/>
+       <Button
+           android:id="@+id/btnLab7Bai4"
+           android:text="Bài 4"
+           android:layout_marginStart="5dp"
+           android:layout_marginEnd="5dp"
+           android:backgroundTint="#FDD835"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"/>
+       <Button
+           android:id="@+id/btnLab7Bai5"
+           android:text="Bài 5"
+           android:layout_marginStart="5dp"
+           android:backgroundTint="#F4511E"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"/>
+   </LinearLayout>
+    <pl.droidsonroids.gif.GifImageView
+        android:src="@drawable/school_gif"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+</LinearLayout>

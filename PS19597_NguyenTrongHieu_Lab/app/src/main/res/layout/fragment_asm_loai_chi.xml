@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@drawable/bgr3"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Asm.Fragment.AsmLoaiChiFragment">
+    <TextView
+        android:id="@+id/txtDanhSachLoaiChiAsm"
+        android:text="DANH SÁCH LOẠI CHI"
+        android:fontFamily="@font/hobostd"
+        android:textStyle="bold"
+        android:textColor="#64DD17"
+        android:textSize="28sp"
+        android:layout_marginTop="15dp"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rcLoaiChiAsm"
+        android:layout_below="@id/txtDanhSachLoaiChiAsm"
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/btnFloatTingLoaiChiAsm"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:src="@drawable/ic_add"
+        android:layout_margin="40dp"
+        android:backgroundTint="#64DD17"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+</RelativeLayout>

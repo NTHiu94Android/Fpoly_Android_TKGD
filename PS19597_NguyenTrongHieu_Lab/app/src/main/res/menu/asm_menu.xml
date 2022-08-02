@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="Quản lí">
+        <menu>
+            <item
+                android:id="@+id/asmMenuThu"
+                android:icon="@drawable/ic_coin"
+                android:title="Thu" />
+            <item
+                android:id="@+id/asmMenuChi"
+                android:icon="@drawable/ic_chi"
+                android:title="Chi" />
+            <item
+                android:id="@+id/asmMenuThongKe"
+                android:icon="@drawable/ic_book"
+                android:title="Thống kê" />
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/asmMenuKhac"
+        android:title="Khác" >
+        <menu>
+            <item
+                android:id="@+id/asmMenuGioiThieu"
+                android:icon="@drawable/ic_infor"
+                android:title="Giới thiệu" />
+            <item
+                android:id="@+id/asmMenuThoat"
+                android:icon="@drawable/ic_exit"
+                android:title="Thoát" />
+        </menu>
+    </item>
+</menu>

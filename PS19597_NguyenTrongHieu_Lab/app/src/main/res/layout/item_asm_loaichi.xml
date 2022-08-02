@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    app:cardCornerRadius="16dp"
+    android:layout_marginTop="8sp"
+    android:layout_marginStart="8dp"
+    android:layout_marginEnd="8dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <RelativeLayout
+        android:padding="8dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/cimvLoaiChiAsm"
+            android:layout_width="50dp"
+            android:layout_height="50dp"/>
+        <TextView
+            android:id="@+id/tvTenLoaiKhoanChiItemAsm"
+            android:layout_toEndOf="@+id/cimvLoaiChiAsm"
+            android:gravity="center"
+            android:layout_marginStart="10dp"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:textColor="#DD2C00"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"/>
+        <Button
+            android:id="@+id/btnSuaLoaiChiAsm"
+            android:background="@drawable/ic_edit"
+            android:layout_toStartOf="@id/btnXoaLoaiChiAsm"
+            android:layout_centerVertical="true"
+            android:layout_marginEnd="10dp"
+            android:layout_width="40dp"
+            android:layout_height="40dp"/>
+        <Button
+            android:id="@+id/btnXoaLoaiChiAsm"
+            android:background="@drawable/ic_delete"
+            android:layout_alignParentEnd="true"
+            android:layout_centerVertical="true"
+            android:layout_width="40dp"
+            android:layout_height="40dp"/>
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Lab4.Lab4">
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/tbLab4"
+        app:navigationIcon="@drawable/ic_back"
+        app:logo="@drawable/ic_caydu"
+        android:background="#FFD600"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="40dp">
+        <ImageView
+            android:layout_margin="10dp"
+            android:src="@drawable/fptpolytechnic"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"/>
+    </androidx.appcompat.widget.Toolbar>
+
+    <ListView
+        android:id="@+id/lvLab4"
+        android:padding="8dp"
+        android:layout_below="@+id/tbLab4"
+        android:layout_above="@+id/btNavMenuLab4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+        android:id="@+id/btNavMenuLab4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        app:itemBackground="@color/yellow"
+        app:itemIconTint="@color/cutom_color_nav_lab4"
+        app:itemTextColor="@color/cutom_color_nav_lab4"
+        app:menu="@menu/lab4_bottom_nav_menu" />
+</RelativeLayout>
